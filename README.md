@@ -3,7 +3,7 @@
 **`Tech enthusiast (Web Developer/UI/UX)`**
 
 <h4>Dedicated and passionate Information Systems undergraduate at the University of Colombo School of Computing. With a strong foundation in software development and a keen interest in Quality Assurance, I am committed to ensuring the highest standards of software quality. My academic journey has equipped me with robust problem-solving skills and technical expertise, particularly in Java, JavaScript, HTML, CSS, and ReactJS.
-
+<br>
 I am eager to apply my skills in a professional setting and contribute to quality-focused teams. My goal is to leverage my technical knowledge and dedication to excellence to make a meaningful impact in the tech industry.<p>
 <p>
  📄 Get to know about my experiences 
