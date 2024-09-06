@@ -4,7 +4,7 @@
 
 <h4>Dedicated and passionate Information Systems undergraduate at the University of Colombo School of Computing. With a strong foundation in software development and a keen interest in Quality Assurance, I am committed to ensuring the highest standards of software quality. My academic journey has equipped me with robust problem-solving skills and technical expertise, particularly in Java, JavaScript, HTML, CSS, and ReactJS.
 
-<br><br>
+<br>
 
  📄 Get to know about my experiences 
 <a href="https://www.linkedin.com/in/liviru-sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liviru-sama" height="30" width="40" /></a>
